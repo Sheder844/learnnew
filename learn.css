@@ -1,0 +1,35 @@
+#boxA {
+    background-color: rgb(135, 17, 209);
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#boxA p{
+    padding: 7%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+
+#jseff{
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: brown;
+    border: 1px solid brown;
+    border-radius: 30px;
+}
+
+.algn{ 
+    width: 20%;
+    display: flex;
+    position: relative;
+    left: 40%;
+}
+
+.bb2{
+    margin-top: 5px;
+}
